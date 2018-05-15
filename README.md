@@ -15,9 +15,9 @@ our project based on  Reinforcement Learning algorithms (according to Wikipedia 
 
 In this main algorithms that will represent in this project will be,
 
-Q-table of finite states.
-DNN - A Deep Neuronal network that learning the q-values
-A3c - google actor-critic algorithm.
-Human-input - that will actively critique the model while the agent is learning.
+1. Q-table of finite states.
+2. DNN - A Deep Neuronal network that learning the q-values
+3. A3c - google actor-critic algorithm.
+4. Human-input - that will actively critique the model while the agent is learning.
 
 ![alt text](https://github.com/ezri77/Game-Agent/blob/master/reinforcementLearning.png)
